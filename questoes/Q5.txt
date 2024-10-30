@@ -1,0 +1,5 @@
+Ligue o primeiro interruptor. Em seguida, vá até a sala e verifqiue qual lamapda acendeu.
+    A lâmpada que estiver acesa é controlada pelo primeiro interruptor.
+Ligue o segundo interruptor e vá até a sala das lâmpadas.
+    A lâmpada que estiver acesa é controlada pelo segundo interruptor.
+E alamapda que não acendeu em nenhum momento é do terceiro interruptor.
